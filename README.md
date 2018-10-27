@@ -1,0 +1,2 @@
+# Introduction-to-DataCamp-Projects
+This is an introduction to DataCamp projects. A DataCamp project will allow you to practice and apply the skills you've learned in the DataCamp courses. In each project you will carry out an end-to-end analysis, on a real-world task, using real-world tools and workflows. In this gentle introduction to DataCamp projects, we will walk you through the projects interface and you will learn how to work with Jupyter notebooks: an open-source web application that is great for interactive data analysis.
